@@ -10,12 +10,14 @@
         <link>https://PonomareVlad.ru/</link>
         <description>Владислав Пономарев - Веб Разработчик</description>
         <item turbo="true">
-            <link>https://PonomareVlad.ru/index.html</link>
+            <link>https://PonomareVlad.ru/</link>
             <author>Владислав Пономарев</author>
             <pubDate>Sat, 09 Dec 17 17:43:56 +0000</pubDate>
             <turbo:content>
                 <![CDATA[
-                         <h1>Хотите Сайт?</h1>
+                         <header>
+                             <h1>Хотите Сайт?</h1>
+                         </header>
                          <h2>Или может быть, что-то кроме сайта?)</h2>
                          <p>Если у вас есть безумная идея, или вы хотите что-то по истине уникальное, то вы нашли подходящего человека!</p>
                          <p><a href="https://github.com/PonomareVlad" target="_blank">GitHub</a></p>
