@@ -8,15 +8,16 @@
     <channel>
         <title>Владислав Пономарев</title>
         <link>https://PonomareVlad.ru/</link>
-        <description>Владислав Пономарев - Веб Разработчик</description>
+        <description>Владислав Пономарев - Веб разработчик с 6-и летним опытом</description>
         <item turbo="true">
             <link>https://PonomareVlad.ru/</link>
             <turbo:content>
                 <![CDATA[
                          <header>
-                             <h1>Хотите Сайт?</h1>
+                             <h1>Веб разработчик с 6-и летним опытом</h1>
                          </header>
-                         <h2>Или может быть, что-то кроме сайта?)</h2>
+                         <h2>Хотите Сайт?</h2>
+                         <h3>Или может быть, что-то кроме сайта?)</h3>
                          <p>Если у вас есть безумная идея, или вы хотите что-то по истине уникальное, то вы нашли подходящего человека!</p>
                          <p><a href="https://github.com/PonomareVlad" target="_blank">GitHub</a></p>
                          <figure>
