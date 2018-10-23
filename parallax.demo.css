@@ -20,6 +20,7 @@ body {
     overflow-y: auto;
     -webkit-perspective: var(--perspective);
     perspective: var(--perspective);
+    -webkit-overflow-scrolling: touch;
 }
 
 .parallax__group {
