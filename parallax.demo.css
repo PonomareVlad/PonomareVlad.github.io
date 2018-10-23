@@ -101,10 +101,15 @@ body {
     background-color: white;
     background-image: url(parallax.demo/mountains.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: 100%;
     background-position: bottom center;
 
     animation: mountains 3s 1;
+}
+
+.parallax-title {
+    --translateZ: -600px;
+    --scale: 3;
 }
 
 .overflow-bottom-cloud {
@@ -136,7 +141,7 @@ body {
 @keyframes mountains {
     0% {
         opacity: 0;
-        background-position: bottom 150% center;
+        background-position: bottom 100px center;
     }
     100% {
         opacity: 1;
@@ -147,10 +152,33 @@ body {
 @keyframes clouds {
     0% {
         /*opacity: 0;*/
-        height: 130vh;
+        height: calc(100vh + 100px);
     }
     100% {
         /*opacity: 1;*/
         height: 100vh;
     }
+}
+
+@media screen and (orientation: portrait){
+    @keyframes mountains {
+        0% {
+            opacity: 0;
+            background-position: bottom 20px center;
+        }
+        100% {
+            opacity: 1;
+            background-position: bottom center;
+        }
+    }
+
+    @keyframes clouds {
+        0% {
+            height: calc(100vh + 20px);
+        }
+        100% {
+            height: 100vh;
+        }
+    }
+
 }
