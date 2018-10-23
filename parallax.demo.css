@@ -110,12 +110,12 @@ body {
 .overflow-bottom-cloud {
     box-sizing: border-box;
     position: relative;
-    min-height: 100vh;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    padding: 40px;
+    /*min-height: 100vh;*/
+    /*text-align: center;*/
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*justify-content: center;*/
+    /*padding: 40px;*/
     background: white;
 }
 
