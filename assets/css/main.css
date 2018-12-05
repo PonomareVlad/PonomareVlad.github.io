@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'San Francisco';
+    font-style: normal;
+    font-weight: 300;
+    src: local('SF UI Text Light'), url('../fonts/sf-ui-text-light-5864714f67240.woff') format('woff');
+}
+
+html, body {
+    color: #444;
+    font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', "Helvetica Neue", "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    text-align: center;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}

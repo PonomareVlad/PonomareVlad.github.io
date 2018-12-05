@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<rss
+        xmlns:yandex="http://news.yandex.ru"
+        xmlns:media="http://search.yahoo.com/mrss/"
+        xmlns:turbo="http://turbo.yandex.ru"
+        version="2.0"
+>
+    <channel>
+        <title>Владислав Пономарев</title>
+        <link>https://PonomareVlad.ru/</link>
+        <description>Владислав Пономарев - Веб разработчик с 6-и летним опытом</description>
+        <item turbo="true">
+            <link>https://PonomareVlad.ru/</link>
+            <turbo:content>
+                <![CDATA[
+                         <header>
+                             <h1>Веб разработчик с 6-и летним опытом</h1>
+                         </header>
+                         <h2>Хотите Сайт?</h2>
+                         <h3>Или может быть, что-то кроме сайта?)</h3>
+                         <p>Если у вас есть безумная идея, или вы хотите что-то по истине уникальное, то вы нашли подходящего человека!</p>
+                         <p><a href="https://github.com/PonomareVlad" target="_blank">GitHub</a></p>
+                         <figure>
+                         <img src="/assets/img/Salem.jpg">
+                         <figcaption>Иногда, со стороны я выгляжу вот так</figcaption>
+                         </figure>
+                         <p>Все потому, что я получаю колоссальное удавольствие в процессе создания крутых инновационных проектов!</p>
+                         <h2>Свяжитесь со мной</h2>
+                         <p>Любым удобным способом, если хотите чтобы ваш проект делали с таким же выражением лица)</p>
+                         <p>
+                         <a href="https://t.me/PonomareVlad" target="_blank">Telegram</a><br>
+                         <a href="https://www.facebook.com/PonomareVlad" target="_blank">FaceBook</a><br>
+                         <a href="https://moikrug.ru/system-core" target="_blank">Мой Круг</a><br>
+                         <a href="https://vk.com/ponomarevlad" target="_blank">ВКонтакте</a>
+                         </p>
+                      ]]>
+            </turbo:content>
+        </item>
+    </channel>
+</rss>
