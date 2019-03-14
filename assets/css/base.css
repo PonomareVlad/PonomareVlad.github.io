@@ -83,6 +83,7 @@ main {
 main.menu a {
     font-size: 38px;
     font-weight: 900;
+    line-height: 1em;
 }
 
 main.menu a span {
