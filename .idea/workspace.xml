@@ -1,38 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14d2dfc3-d5cd-4478-8c6e-39e0c923e6d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PonomareVlad.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amp/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/sf-ui-display-black-58646a6b80d5a.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/sf-ui-display-bold-58646a511e3d9.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/sf-ui-display-heavy-586470160b9e5.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/sf-ui-display-light-58646b33e0551.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/sf-ui-display-medium-58646be638f96.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/sf-ui-display-semibold-58646eddcae92.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/sf-ui-display-thin-58646e9b26e8b.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/sf-ui-display-ultralight-58646b19bf205.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/sf-ui-text-heavy-italic-586470f688b99.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/sf-ui-text-light-5864714f67240.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/sf-ui-text-regular-58646b56a688c.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Salem.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google7a79fe44314b93b2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/turbo.xml" beforeDir="false" />
+    <list default="true" id="4a310679-3269-48a6-8f41-8460b920cea3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/base.css" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <ignored path=".idea/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,8 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="76" lean-forward="true" selection-start-line="23" selection-start-column="76" selection-end-line="23" selection-end-column="76" />
+            <state relative-caret-position="150">
+              <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -53,53 +25,30 @@
         <entry file="file://$PROJECT_DIR$/assets/css/base.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>About NIC</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Modern" />
       </map>
     </option>
-    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/webcomponents/depend.mjs" />
-        <option value="$PROJECT_DIR$/../Boost/api/athlete_signup.json" />
-        <option value="$PROJECT_DIR$/../Boost/api/athlete_single_login.json" />
-        <option value="$PROJECT_DIR$/../Boost/api/athlete_validate.json" />
-        <option value="$PROJECT_DIR$/../Boost/api/coach.json" />
-        <option value="$PROJECT_DIR$/../Boost/assets/js/main.js" />
-        <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/static.html" />
-        <option value="$PROJECT_DIR$/parallax.demo.html" />
-        <option value="$PROJECT_DIR$/parallax.demo.css" />
-        <option value="$PROJECT_DIR$/amp/index.html" />
-        <option value="$PROJECT_DIR$/turbo.xml" />
-        <option value="$PROJECT_DIR$/404.html" />
-        <option value="$PROJECT_DIR$/base.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/img/facebook.svg" />
+        <option value="$PROJECT_DIR$/assets/img/github.svg" />
+        <option value="$PROJECT_DIR$/assets/img/linkedin.svg" />
+        <option value="$PROJECT_DIR$/assets/img/send.svg" />
+        <option value="$PROJECT_DIR$/assets/img/twitter.svg" />
         <option value="$PROJECT_DIR$/assets/css/base.css" />
       </list>
     </option>
@@ -108,14 +57,12 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,27 +91,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/parallax.demo" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,133 +113,31 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="14d2dfc3-d5cd-4478-8c6e-39e0c923e6d9" name="Default Changelist" comment="" />
-      <created>1536149060368</created>
+      <changelist id="4a310679-3269-48a6-8f41-8460b920cea3" name="Default Changelist" comment="" />
+      <created>1552529869187</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1536149060368</updated>
-      <workItem from="1536149061823" duration="417000" />
-      <workItem from="1537275052318" duration="947000" />
-      <workItem from="1539476698102" duration="1764000" />
-      <workItem from="1539961423497" duration="23000" />
-      <workItem from="1540156047433" duration="2997000" />
-      <workItem from="1540169100405" duration="4040000" />
-      <workItem from="1540248020103" duration="15066000" />
-      <workItem from="1543115491999" duration="772000" />
-      <workItem from="1543116902853" duration="27000" />
-      <workItem from="1544043695075" duration="2641000" />
-      <workItem from="1548277172405" duration="496000" />
-      <workItem from="1552525292348" duration="3413000" />
+      <updated>1552529869187</updated>
+      <workItem from="1552529872486" duration="243000" />
     </task>
-    <task id="LOCAL-00001" summary="Hey Leo!">
-      <created>1536149128819</created>
+    <task id="LOCAL-00001" summary="Icons optimized">
+      <created>1552530472597</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1536149128819</updated>
+      <updated>1552530472597</updated>
     </task>
-    <task id="LOCAL-00002" summary="Rebuilding in process">
-      <created>1537275395231</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1537275395231</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Parallax demo">
-      <created>1540200293911</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1540200293911</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Support Heroku">
-      <created>1540200708067</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1540200708067</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Parallax updated">
-      <created>1540259249939</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1540259249940</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Parallax start animation">
-      <created>1540260720239</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1540260720239</updated>
-    </task>
-    <task id="LOCAL-00007" summary="iOS scrolling fix">
-      <created>1540261112901</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1540261112901</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Parallax combined version">
-      <created>1540290706620</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1540290706620</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Parallax fix">
-      <created>1540300253370</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1540300253370</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Tests">
-      <created>1540312553583</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1540312553583</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Note">
-      <created>1543115798200</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1543115798200</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Fonts updated">
-      <created>1543116264602</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1543116264603</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Back to the Future">
-      <created>1544043969504</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1544043969504</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Back to the Future">
-      <created>1544044007371</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1544044007371</updated>
-    </task>
-    <option name="localTasksCounter" value="15" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32603000" />
+    <option name="totallyTimeSpent" value="412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17152777" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17430556" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -320,18 +148,14 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.14218566" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.19036427" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.14806111" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Remote Host" order="3" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -376,78 +200,39 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Hey Leo!" />
-    <MESSAGE value="Rebuilding in process" />
-    <MESSAGE value="Parallax demo" />
-    <MESSAGE value="Support Heroku" />
-    <MESSAGE value="Parallax updated" />
-    <MESSAGE value="Parallax start animation" />
-    <MESSAGE value="iOS scrolling fix" />
-    <MESSAGE value="Parallax combined version" />
-    <MESSAGE value="Parallax fix" />
-    <MESSAGE value="Tests" />
-    <MESSAGE value="Note" />
-    <MESSAGE value="Fonts updated" />
-    <MESSAGE value="Back to the Future" />
-    <option name="LAST_COMMIT_MESSAGE" value="Back to the Future" />
+    <MESSAGE value="Prepare" />
+    <MESSAGE value="Icons optimized" />
+    <option name="LAST_COMMIT_MESSAGE" value="Icons optimized" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/webcomponents/depend.mjs" />
-    <entry file="file://$PROJECT_DIR$/webcomponents/test.mjs" />
-    <entry file="file://$PROJECT_DIR$/webcomponents/index.html" />
-    <entry file="file://$PROJECT_DIR$/assets/img/pic.jpeg" />
-    <entry file="file://$PROJECT_DIR$/parallax.demo/clouds.png" />
-    <entry file="file://$PROJECT_DIR$/parallax.demo/single-cloud.png" />
-    <entry file="file://$PROJECT_DIR$/parallax.demo/mountains.jpg" />
-    <entry file="file://$PROJECT_DIR$/composer.json" />
-    <entry file="file://$PROJECT_DIR$/parallax.demo/right-cloud.png" />
-    <entry file="file://$PROJECT_DIR$/parallax.demo/clouds-with-space.png" />
-    <entry file="file://$PROJECT_DIR$/parallax.demo/bottom-cloud.png" />
-    <entry file="file://$PROJECT_DIR$/static/js/main.min.js" />
-    <entry file="file://$PROJECT_DIR$/parallax.demo.html" />
-    <entry file="file://$PROJECT_DIR$/static.html" />
-    <entry file="file://$PROJECT_DIR$/parallax.demo.css" />
-    <entry file="file://$PROJECT_DIR$/static/js/separate-js/scripts.js" />
-    <entry file="file://$PROJECT_DIR$/amp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="128" column="13" lean-forward="true" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/assets/img/facebook.svg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/assets/img/github.svg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/turbo.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/assets/img/linkedin.svg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/send.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/100. Chetwode Blue.png">
+    <entry file="file://$PROJECT_DIR$/assets/img/twitter.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="76" lean-forward="true" selection-start-line="23" selection-start-column="76" selection-end-line="23" selection-end-column="76" />
+        <state relative-caret-position="150">
+          <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
