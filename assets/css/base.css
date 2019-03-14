@@ -9,6 +9,8 @@
     color: var(--text-color);
     font-family: "SF Pro Text", -apple-system, sans-serif;
     background: url("../img/100. Chetwode Blue.png") no-repeat center/cover;
+
+    overflow: hidden;
 }
 
 body {
@@ -32,7 +34,6 @@ header {
     display: flex;
     height: var(--size);
     min-height: var(--size);
-    /*align-items: center;*/
     margin: 0 -10px;
 }
 
