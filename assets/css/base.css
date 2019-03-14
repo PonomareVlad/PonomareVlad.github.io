@@ -17,6 +17,8 @@
 body {
     margin: unset;
     padding: var(--padding);
+    padding-bottom: 70px;
+
 
     display: flex;
     flex-direction: column;
