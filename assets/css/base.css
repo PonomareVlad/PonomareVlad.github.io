@@ -105,6 +105,4 @@ footer a img {
 
     width: var(--size);
     height: var(--size);
-
-    filter: invert(1);
 }
