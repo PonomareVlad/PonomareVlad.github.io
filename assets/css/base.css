@@ -11,7 +11,8 @@
     font-family: "SF Pro Text", -apple-system, sans-serif;
 
     overflow: hidden;
-    /*position: fixed;*/
+
+    background: rgb(71, 55, 142);
 }
 
 body {
