@@ -8,7 +8,6 @@
 
     color: var(--text-color);
     font-family: "SF Pro Text", -apple-system, sans-serif;
-    background: url("../img/100. Chetwode Blue.png") no-repeat center/cover;
 
     overflow: hidden;
     position: fixed;
@@ -17,8 +16,9 @@
 body {
     margin: unset;
     padding: var(--padding);
-    padding-bottom: 70px;
+    padding-bottom: 90px;
 
+    background: url("../img/100. Chetwode Blue.png") no-repeat center/cover;
 
     display: flex;
     flex-direction: column;
@@ -77,7 +77,7 @@ main {
     justify-content: space-around;
 
     height: 100%;
-    margin: var(--padding) 0;
+    margin: 10px 0;
 }
 
 main.menu a {
