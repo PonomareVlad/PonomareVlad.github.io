@@ -10,7 +10,7 @@
     font-family: "SF Pro Text", -apple-system, sans-serif;
 
     overflow: hidden;
-    position: fixed;
+    /*position: fixed;*/
 }
 
 body {
