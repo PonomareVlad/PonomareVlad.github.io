@@ -1,0 +1,109 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --text-color: white;
+    --padding: 20px;
+
+    color: var(--text-color);
+    font-family: "SF Pro Text", -apple-system, sans-serif;
+    background: url("../img/100. Chetwode Blue.png") no-repeat center/cover;
+}
+
+body {
+    margin: unset;
+    padding: var(--padding);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+a {
+    color: inherit;
+    text-decoration: unset;
+}
+
+header {
+    --size: 60px;
+
+    display: flex;
+    height: var(--size);
+    min-height: var(--size);
+    /*align-items: center;*/
+    margin: 0 -10px;
+}
+
+header figure {
+    all: unset;
+    margin-right: 10px;
+}
+
+.avatar {
+    font-size: var(--size);
+    line-height: var(--size);
+    text-align: center;
+
+    height: var(--size);
+    width: var(--size);
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
+}
+
+.profile .title {
+    font-size: 20px;
+    font-weight: normal;
+    margin: unset;
+}
+
+.profile .caption {
+    font-size: 14px;
+    font-weight: 300;
+    margin: unset;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+    height: 100%;
+    margin: var(--padding) 0;
+}
+
+main.menu a {
+    font-size: 38px;
+    font-weight: 900;
+}
+
+main.menu a span {
+    font-size: 24px;
+}
+
+footer {
+    --size: 40px;
+
+    display: flex;
+    justify-content: space-between;
+
+    height: var(--size);
+    min-height: var(--size);
+}
+
+footer a {
+    display: inline-block;
+}
+
+footer a img {
+    display: inline-block;
+
+    width: var(--size);
+    height: var(--size);
+
+    filter: invert(1);
+}
