@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a310679-3269-48a6-8f41-8460b920cea3" name="Default Changelist" comment="Desktop prototype">
+    <list default="true" id="4a310679-3269-48a6-8f41-8460b920cea3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/send.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/telegram.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,39 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/base.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="172" column="23" selection-start-line="172" selection-start-column="23" selection-end-line="172" selection-end-column="23" />
-              <folding>
-                <element signature="e#2#65#0" />
-                <element signature="e#543#594#0" />
-                <element signature="e#603#719#0" />
-                <element signature="e#735#778#0" />
-                <element signature="e#788#923#0" />
-                <element signature="e#934#984#0" />
-                <element signature="e#1002#1070#0" />
-                <element signature="e#1090#1155#0" />
-                <element signature="e#1162#1286#0" />
-                <element signature="e#1169#1177#0" />
-                <element signature="e#1300#1368#0" />
-                <element signature="e#1430#1438#0" />
-                <element signature="e#1424#1432#0" />
-                <element signature="e#1492#1534#0" />
-                <element signature="e#1762#1770#0" />
-                <element signature="e#1831#1882#0" />
-                <element signature="e#1902#1954#0" />
-                <element signature="e#1975#2028#0" />
-                <element signature="e#2047#2100#0" />
-                <element signature="e#1563#1593#0" />
-              </folding>
+            <state relative-caret-position="237">
+              <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -138,10 +106,12 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/.well-known" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -172,7 +142,7 @@
       <workItem from="1552533464202" duration="68000" />
       <workItem from="1552619632976" duration="191000" />
       <workItem from="1552622019924" duration="1019000" />
-      <workItem from="1553304908963" duration="4618000" />
+      <workItem from="1553304908963" duration="5294000" />
     </task>
     <task id="LOCAL-00001" summary="Icons optimized">
       <created>1552530472597</created>
@@ -342,11 +312,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552623032182</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Desktop version prototype">
+      <created>1553314476793</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1553314476805</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8536000" />
+    <option name="totallyTimeSpent" value="9212000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -418,7 +395,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Prepare" />
     <MESSAGE value="Icons optimized" />
     <MESSAGE value="Disabled scroll" />
     <MESSAGE value="Disabled scroll 2" />
@@ -443,7 +419,8 @@
     <MESSAGE value="DAT Support fix 2" />
     <MESSAGE value="DAT Support fix 3" />
     <MESSAGE value="DAT Support ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="DAT Support ready" />
+    <MESSAGE value="Desktop version prototype" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desktop version prototype" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -533,8 +510,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="237">
+          <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
         </state>
       </provider>
     </entry>
