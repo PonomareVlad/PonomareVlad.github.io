@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a310679-3269-48a6-8f41-8460b920cea3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/base.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,11 +18,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+            <state relative-caret-position="357">
+              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/base.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+              <folding>
+                <element signature="e#2#65#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,6 +49,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -142,7 +155,7 @@
       <workItem from="1552533464202" duration="68000" />
       <workItem from="1552619632976" duration="191000" />
       <workItem from="1552622019924" duration="1019000" />
-      <workItem from="1553304908963" duration="5294000" />
+      <workItem from="1553304908963" duration="5588000" />
     </task>
     <task id="LOCAL-00001" summary="Icons optimized">
       <created>1552530472597</created>
@@ -319,11 +332,25 @@
       <option name="project" value="LOCAL" />
       <updated>1553314476805</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Added icon and OG meta">
+      <created>1553317958200</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1553317958200</updated>
+    </task>
+    <task id="LOCAL-00027" summary="OG Update">
+      <created>1553318010153</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1553318010153</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9212000" />
+    <option name="totallyTimeSpent" value="9506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -395,8 +422,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Icons optimized" />
-    <MESSAGE value="Disabled scroll" />
     <MESSAGE value="Disabled scroll 2" />
     <MESSAGE value="Disabled scroll 3" />
     <MESSAGE value="Disabled scroll 4" />
@@ -420,7 +445,9 @@
     <MESSAGE value="DAT Support fix 3" />
     <MESSAGE value="DAT Support ready" />
     <MESSAGE value="Desktop version prototype" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desktop version prototype" />
+    <MESSAGE value="Added icon and OG meta" />
+    <MESSAGE value="OG Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="OG Update" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -479,39 +506,20 @@
     <entry file="file://$PROJECT_DIR$/assets/css/desktop.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/base.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="172" column="23" selection-start-line="172" selection-start-column="23" selection-end-line="172" selection-end-column="23" />
-          <folding>
-            <element signature="e#2#65#0" />
-            <element signature="e#543#594#0" />
-            <element signature="e#603#719#0" />
-            <element signature="e#735#778#0" />
-            <element signature="e#788#923#0" />
-            <element signature="e#934#984#0" />
-            <element signature="e#1002#1070#0" />
-            <element signature="e#1090#1155#0" />
-            <element signature="e#1162#1286#0" />
-            <element signature="e#1169#1177#0" />
-            <element signature="e#1300#1368#0" />
-            <element signature="e#1430#1438#0" />
-            <element signature="e#1424#1432#0" />
-            <element signature="e#1492#1534#0" />
-            <element signature="e#1762#1770#0" />
-            <element signature="e#1831#1882#0" />
-            <element signature="e#1902#1954#0" />
-            <element signature="e#1975#2028#0" />
-            <element signature="e#2047#2100#0" />
-            <element signature="e#1563#1593#0" />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="16" column="57" lean-forward="true" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+        <state relative-caret-position="233">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#2#65#0" />
+          </folding>
         </state>
       </provider>
     </entry>

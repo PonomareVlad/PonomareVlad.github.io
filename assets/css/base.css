@@ -61,6 +61,11 @@ header figure {
     line-height: var(--size);
     text-align: center;
 
+    background-image: url("../img/icon.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
     height: var(--size);
     width: var(--size);
 }
