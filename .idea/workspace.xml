@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4a310679-3269-48a6-8f41-8460b920cea3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/base.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,20 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="240">
+              <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="369">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
               <folding>
                 <element signature="e#2#65#0" />
               </folding>
@@ -92,23 +91,6 @@
               <item name="PonomareVlad.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="PonomareVlad.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PonomareVlad.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PonomareVlad.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PonomareVlad.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PonomareVlad.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PonomareVlad.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PonomareVlad.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -155,7 +137,7 @@
       <workItem from="1552533464202" duration="68000" />
       <workItem from="1552619632976" duration="191000" />
       <workItem from="1552622019924" duration="1019000" />
-      <workItem from="1553304908963" duration="5588000" />
+      <workItem from="1553304908963" duration="6013000" />
     </task>
     <task id="LOCAL-00001" summary="Icons optimized">
       <created>1552530472597</created>
@@ -346,11 +328,25 @@
       <option name="project" value="LOCAL" />
       <updated>1553318010153</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Header icon updated">
+      <created>1553318239496</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1553318239496</updated>
+    </task>
+    <task id="LOCAL-00029" summary="OG Fix">
+      <created>1553318597191</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1553318597191</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9506000" />
+    <option name="totallyTimeSpent" value="9931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -422,8 +418,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Disabled scroll 2" />
-    <MESSAGE value="Disabled scroll 3" />
     <MESSAGE value="Disabled scroll 4" />
     <MESSAGE value="Disabled scroll 5" />
     <MESSAGE value="Disabled scroll 6" />
@@ -447,7 +441,9 @@
     <MESSAGE value="Desktop version prototype" />
     <MESSAGE value="Added icon and OG meta" />
     <MESSAGE value="OG Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="OG Update" />
+    <MESSAGE value="Header icon updated" />
+    <MESSAGE value="OG Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="OG Fix" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -506,20 +502,20 @@
     <entry file="file://$PROJECT_DIR$/assets/css/desktop.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="369">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
           <folding>
             <element signature="e#2#65#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="59" lean-forward="true" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
         </state>
       </provider>
     </entry>
