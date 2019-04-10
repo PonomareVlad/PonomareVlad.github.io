@@ -168,6 +168,22 @@ footer a {
     background-position: center;
 }
 
+@media (min-width: 350px) {
+    .profile {
+        text-align: left;
+
+    }
+
+    .profile .title {
+        font-size: 26px;
+    }
+
+    .profile .caption {
+        font-size: 20px;
+    }
+
+}
+
 @media (orientation: landscape) and (max-height: 500px) {
     main .menu a:after {
         display: inline-block;
