@@ -32,12 +32,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="182" column="24" selection-start-line="182" selection-start-column="24" selection-end-line="182" selection-end-column="24" />
+            <state relative-caret-position="407">
+              <caret line="172" column="10" lean-forward="true" selection-start-line="172" selection-start-column="10" selection-end-line="172" selection-end-column="10" />
               <folding>
                 <element signature="e#2#65#0" />
-                <element signature="e#73#479#0" />
-                <element signature="e#486#679#0" />
                 <element signature="e#683#734#0" />
                 <element signature="e#743#859#0" />
                 <element signature="e#875#918#0" />
@@ -59,6 +57,10 @@
                 <element signature="e#2366#2419#0" />
                 <element signature="e#2438#2491#0" />
                 <element signature="e#2502#2680#0" />
+                <element signature="e#2682#2698#0" />
+                <element signature="e#2722#2738#0" />
+                <element signature="e#2785#2801#0" />
+                <element signature="e#2834#2850#0" />
                 <element signature="e#2682#2840#0" />
                 <element signature="e#2763#2838#0" />
                 <element signature="e#2842#2916#0" />
@@ -186,7 +188,7 @@
       <workItem from="1553304908963" duration="6544000" />
       <workItem from="1553322469726" duration="47000" />
       <workItem from="1553645561149" duration="100000" />
-      <workItem from="1554932512853" duration="554000" />
+      <workItem from="1554932512853" duration="1183000" />
     </task>
     <task id="LOCAL-00001" summary="Icons optimized">
       <created>1552530472597</created>
@@ -419,11 +421,25 @@
       <option name="project" value="LOCAL" />
       <updated>1554932969366</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Header desktop style additional fix">
+      <created>1554933206188</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1554933206188</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Added scroll for ultra-slim screen">
+      <created>1554934001402</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1554934001402</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11163000" />
+    <option name="totallyTimeSpent" value="11792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -495,8 +511,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Disabled scroll 8" />
-    <MESSAGE value="Disabled scroll 9" />
     <MESSAGE value="Disabled scroll 10" />
     <MESSAGE value="Disabled scroll final" />
     <MESSAGE value="Disabled scroll ready" />
@@ -520,7 +534,9 @@
     <MESSAGE value="Y.Metrika installed" />
     <MESSAGE value="Title changed" />
     <MESSAGE value="Header desktop style fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Header desktop style fix" />
+    <MESSAGE value="Header desktop style additional fix" />
+    <MESSAGE value="Added scroll for ultra-slim screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added scroll for ultra-slim screen" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -596,12 +612,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="182" column="24" selection-start-line="182" selection-start-column="24" selection-end-line="182" selection-end-column="24" />
+        <state relative-caret-position="407">
+          <caret line="172" column="10" lean-forward="true" selection-start-line="172" selection-start-column="10" selection-end-line="172" selection-end-column="10" />
           <folding>
             <element signature="e#2#65#0" />
-            <element signature="e#73#479#0" />
-            <element signature="e#486#679#0" />
             <element signature="e#683#734#0" />
             <element signature="e#743#859#0" />
             <element signature="e#875#918#0" />
@@ -623,6 +637,10 @@
             <element signature="e#2366#2419#0" />
             <element signature="e#2438#2491#0" />
             <element signature="e#2502#2680#0" />
+            <element signature="e#2682#2698#0" />
+            <element signature="e#2722#2738#0" />
+            <element signature="e#2785#2801#0" />
+            <element signature="e#2834#2850#0" />
             <element signature="e#2682#2840#0" />
             <element signature="e#2763#2838#0" />
             <element signature="e#2842#2916#0" />
