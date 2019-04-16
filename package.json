@@ -1,0 +1,9 @@
+{
+  "name": "ponomarevlad.ru",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PonomareVlad/PonomareVlad.github.io.git"
+  },
+  "author": "PonomareVlad"
+}

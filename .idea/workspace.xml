@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4a310679-3269-48a6-8f41-8460b920cea3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/base.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,61 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="60" lean-forward="true" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/css/base.css">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="192" column="1" selection-start-line="192" selection-start-column="1" selection-end-line="192" selection-end-column="1" />
-              <folding>
-                <element signature="e#2#65#0" />
-                <element signature="e#683#734#0" />
-                <element signature="e#743#859#0" />
-                <element signature="e#875#918#0" />
-                <element signature="e#928#1207#0" />
-                <element signature="e#1218#1268#0" />
-                <element signature="e#1286#1354#0" />
-                <element signature="e#1374#1439#0" />
-                <element signature="e#1446#1575#0" />
-                <element signature="e#1588#1692#0" />
-                <element signature="e#1707#1775#0" />
-                <element signature="e#1796#1861#0" />
-                <element signature="e#1882#1924#0" />
-                <element signature="e#1948#1982#0" />
-                <element signature="e#1991#2067#0" />
-                <element signature="e#2079#2137#0" />
-                <element signature="e#2154#2205#0" />
-                <element signature="e#2223#2275#0" />
-                <element signature="e#2294#2347#0" />
-                <element signature="e#2366#2419#0" />
-                <element signature="e#2438#2491#0" />
-                <element signature="e#2502#2680#0" />
-                <element signature="e#2682#2698#0" />
-                <element signature="e#2722#2738#0" />
-                <element signature="e#2785#2801#0" />
-                <element signature="e#2834#2850#0" />
-                <element signature="e#2682#2840#0" />
-                <element signature="e#2763#2838#0" />
-                <element signature="e#2842#2916#0" />
-                <element signature="e#2880#2914#0" />
-                <element signature="e#2918#3090#0" />
-                <element signature="e#2955#3019#0" />
-                <element signature="e#3035#3088#0" />
-                <element signature="e#3092#3168#0" />
-                <element signature="e#3136#3166#0" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -81,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -106,6 +57,8 @@
         <option value="$PROJECT_DIR$/assets/css/desktop.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/base.css" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -147,10 +100,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -188,7 +143,10 @@
       <workItem from="1553304908963" duration="6544000" />
       <workItem from="1553322469726" duration="47000" />
       <workItem from="1553645561149" duration="100000" />
-      <workItem from="1554932512853" duration="1444000" />
+      <workItem from="1554932512853" duration="1577000" />
+      <workItem from="1555077276076" duration="44000" />
+      <workItem from="1555261176354" duration="407000" />
+      <workItem from="1555381022829" duration="206000" />
     </task>
     <task id="LOCAL-00001" summary="Icons optimized">
       <created>1552530472597</created>
@@ -449,17 +407,24 @@
       <option name="project" value="LOCAL" />
       <updated>1554934372918</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Fix 2">
+      <created>1554934545159</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1554934545159</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12053000" />
+    <option name="totallyTimeSpent" value="12843000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13263889" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13263889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -470,8 +435,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.13983549" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.13983549" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32902467" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -525,7 +490,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Disabled scroll ready" />
     <MESSAGE value="Background fix" />
     <MESSAGE value="Styles update" />
     <MESSAGE value="Click fix" />
@@ -550,7 +514,8 @@
     <MESSAGE value="Added scroll for ultra-slim screen" />
     <MESSAGE value="Added scroll for ultra-small screen" />
     <MESSAGE value="Fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
+    <MESSAGE value="Fix 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix 2" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -617,7 +582,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="60" lean-forward="true" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -626,45 +591,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="192" column="1" selection-start-line="192" selection-start-column="1" selection-end-line="192" selection-end-column="1" />
-          <folding>
-            <element signature="e#2#65#0" />
-            <element signature="e#683#734#0" />
-            <element signature="e#743#859#0" />
-            <element signature="e#875#918#0" />
-            <element signature="e#928#1207#0" />
-            <element signature="e#1218#1268#0" />
-            <element signature="e#1286#1354#0" />
-            <element signature="e#1374#1439#0" />
-            <element signature="e#1446#1575#0" />
-            <element signature="e#1588#1692#0" />
-            <element signature="e#1707#1775#0" />
-            <element signature="e#1796#1861#0" />
-            <element signature="e#1882#1924#0" />
-            <element signature="e#1948#1982#0" />
-            <element signature="e#1991#2067#0" />
-            <element signature="e#2079#2137#0" />
-            <element signature="e#2154#2205#0" />
-            <element signature="e#2223#2275#0" />
-            <element signature="e#2294#2347#0" />
-            <element signature="e#2366#2419#0" />
-            <element signature="e#2438#2491#0" />
-            <element signature="e#2502#2680#0" />
-            <element signature="e#2682#2698#0" />
-            <element signature="e#2722#2738#0" />
-            <element signature="e#2785#2801#0" />
-            <element signature="e#2834#2850#0" />
-            <element signature="e#2682#2840#0" />
-            <element signature="e#2763#2838#0" />
-            <element signature="e#2842#2916#0" />
-            <element signature="e#2880#2914#0" />
-            <element signature="e#2918#3090#0" />
-            <element signature="e#2955#3019#0" />
-            <element signature="e#3035#3088#0" />
-            <element signature="e#3092#3168#0" />
-            <element signature="e#3136#3166#0" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
     </entry>
