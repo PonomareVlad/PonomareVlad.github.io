@@ -1,11 +1,12 @@
 {
-  "title": "PonomareVlad",
+  "title": "Владислав Пономарев",
   "links": {
-	"payment": [
-	  {
-		"href": "https://PonomareVlad.ru",
-		"type": "text/html"
-	  }
-	]
-  }
+    "payment": [
+      {
+        "href": "https://PonomareVlad.ru",
+        "type": "text/html"
+      }
+    ]
+  },
+  "description": "Владислав Пономарев - Разработчик Веб-приложений"
 }
