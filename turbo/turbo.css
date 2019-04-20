@@ -51,39 +51,9 @@
     margin: 0 -10px;
 }
 
-.header .figure {
-    all: unset;
-    margin-right: 10px;
-}
-
-.avatar {
-    font-size: var(--size);
-    line-height: var(--size);
-    text-align: center;
-
-    background-image: url("../img/icon.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-
-    height: var(--size);
-    width: var(--size);
-}
-
-.profile {
-    display: flex;
-    flex-direction: column;
-}
-
-.profile .title {
-    font-size: 20px;
-    font-weight: normal;
-    margin: unset;
-}
-
-.profile .caption {
-    font-size: 14px;
-    font-weight: 300;
+.title {
+    font-size: 14px !important;
+    font-weight: 300 !important;
     margin: unset;
 }
 
