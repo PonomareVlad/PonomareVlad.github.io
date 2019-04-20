@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+    touch-action: manipulation;
+}
+
+:root {
+    --text-color: white;
+    --padding: 20px;
+
+    display: flex;
+
+    color: var(--text-color);
+    font-family: "SF Pro Text", -apple-system, sans-serif;
+
+    /*overflow: hidden;*/
+
+    background-color: rgb(71, 55, 142);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+    height: 100vh;
+}
+
+.header-title {
+    color: white !important;
+}
+
+.page__container {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    height: 100%;
+    width: 100%;
+    max-width: 600px;
+
+    margin: auto;
+
+    background-color: rgb(71, 55, 142);
+}
+
+.header {
+    --size: 60px;
+
+    display: flex;
+    height: var(--size);
+    min-height: var(--size);
+    margin: 0 -10px;
+}
+
+.header .figure {
+    all: unset;
+    margin-right: 10px;
+}
+
+.avatar {
+    font-size: var(--size);
+    line-height: var(--size);
+    text-align: center;
+
+    background-image: url("../img/icon.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+    height: var(--size);
+    width: var(--size);
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
+}
+
+.profile .title {
+    font-size: 20px;
+    font-weight: normal;
+    margin: unset;
+}
+
+.profile .caption {
+    font-size: 14px;
+    font-weight: 300;
+    margin: unset;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    height: 100%;
+
+    margin: var(--padding) 0;
+}
+
+.a {
+    color: inherit;
+    text-decoration: unset;
+    font-size: 38px;
+    font-weight: 900;
+    line-height: 38px;
+}
+
+.a:after {
+    display: block;
+    font-size: 24px;
+    margin-top: 5px;
+}
+
+.a.works-link:after {
+    content: '🛠 🧪 🏗 👶🏻 🖥 🖼 🖱';
+}
+
+.a.projects-link:after {
+    content: '🛰 🚀 🌐 🦈 📢';
+}
