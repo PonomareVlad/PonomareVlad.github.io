@@ -6,6 +6,7 @@
 :root {
     --text-color: white;
     --padding: 20px;
+    --root-height: 100vh;
 
     display: flex;
 
@@ -15,13 +16,27 @@
     /*overflow: hidden;*/
 
     background-color: rgb(71, 55, 142);
-    background-image: url("../img/100. Chetwode Blue.png");
+    background-image: url("../img/background.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
     background-attachment: fixed;
 
-    height: 100vh;
+    height: var(--root-height);
+}
+
+@supports (-webkit-overflow-scrolling: touch) {
+    @media (orientation: portrait) {
+        :root {
+            --root-height: calc(100vh - 70px);
+        }
+    }
+
+    @media (orientation: landscape) {
+        :root {
+            --root-height: calc(100vh - 45px);
+        }
+    }
 }
 
 body {
