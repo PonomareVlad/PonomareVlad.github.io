@@ -28,13 +28,13 @@
 @supports (-webkit-overflow-scrolling: touch) {
     @media (orientation: portrait) {
         :root {
-            --root-height: calc(100vh - 70px);
+            --root-height: calc(100vh - 75px);
         }
     }
 
     @media (orientation: landscape) {
         :root {
-            --root-height: calc(100vh - 45px);
+            --root-height: calc(100vh - 50px);
         }
     }
 }
