@@ -9,7 +9,7 @@
     <link href="assets/img/icon.png" rel="icon" type="image/png"/>
     <link href="assets/img/icon.png" rel="apple-touch-icon">
     <meta content="#47378E" name="theme-color">
-    <meta content="telephone=no" name="format-detection">
+    <!--<meta content="telephone=no" name="format-detection">-->
     <meta content="profile" property="og:type">
     <meta content="summary_large_image" property="twitter:card">
     <meta content="Владислав Пономарев" property="og:title">
@@ -52,14 +52,17 @@
         <a class="telegram" href="tg://resolve?domain=PonomareVlad" title="Telegram"></a>
     </nav>
 </footer>
+<ul id="webViewTest"
+    style="opacity:0;display: block;height: 0;width:0;overflow: hidden;pointer-events: none;margin: unset;padding: unset;">
+    <li>111-111-1111</li>
+</ul>
 <script>
 
-    var standalone = window.navigator.standalone,
-        userAgent = window.navigator.userAgent.toLowerCase(),
-        safari = /safari/.test(userAgent),
-        ios = /iphone|ipod|ipad/.test(userAgent);
+    var webViewTest = document.getElementById("webViewTest").innerHTML;
 
-    if (ios && !standalone && !safari) document.documentElement.style.setProperty('--root-height', '100vh');
+    if (navigator.platform.substr(0, 2) === 'iP' && webViewTest.indexOf('tel:') == -1) {
+        document.documentElement.style.setProperty('--root-height', 'calc(100vh - 30px)');
+    }
 
 </script>
 <!-- Yandex.Metrika counter -->
