@@ -52,6 +52,16 @@
         <a class="telegram" href="tg://resolve?domain=PonomareVlad" title="Telegram"></a>
     </nav>
 </footer>
+<script>
+
+    var standalone = window.navigator.standalone,
+        userAgent = window.navigator.userAgent.toLowerCase(),
+        safari = /safari/.test(userAgent),
+        ios = /iphone|ipod|ipad/.test(userAgent);
+
+    if (ios && !standalone && !safari) document.documentElement.style.setProperty('--root-height', '100vh');
+
+</script>
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
     (function (m, e, t, r, i, k, a) {
