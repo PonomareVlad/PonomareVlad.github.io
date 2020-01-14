@@ -19,10 +19,10 @@
 <main class="main">
     <nav class="menu">
         <p>
-            <a class="a works-link" href="https://github.com/PonomareVlad?tab=repositories&q=freelance">Мои работы</a>
+            <a class="a" href="https://freelance.habr.com/freelancers/PonomarevStudio">Портфолио</a>
         </p>
         <p>
-            <a class="a projects-link" href="https://github.com/PonomareVlad?tab=repositories">Мои проекты</a>
+            <a class="a" href="https://career.habr.com/ponomarevlad">Резюме</a>
         </p>
     </nav>
 </main>
