@@ -19,10 +19,7 @@
 <main class="main">
     <nav class="menu">
         <p>
-            <a class="a" href="https://career.habr.com/ponomarevlad">Резюме</a>
-        </p>
-        <p>
-            <a class="a" href="https://freelance.habr.com/freelancers/PonomarevStudio">Портфолио</a>
+            <a class="a" href="https://career.habr.com/ponomarevlad">Резюме → 📝</a>
         </p>
     </nav>
 </main>
