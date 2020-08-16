@@ -76,6 +76,12 @@ body {
     /*max-height: -webkit-fill-available;*/
 }
 
+@supports (padding: env(safe-area-inset-top)) {
+    body {
+        padding: max(env(safe-area-inset-top), var(--padding)) max(env(safe-area-inset-right), var(--padding)) max(env(safe-area-inset-bottom), var(--padding)) max(env(safe-area-inset-left), var(--padding));
+    }
+}
+
 a {
     color: inherit;
     text-decoration: unset;
