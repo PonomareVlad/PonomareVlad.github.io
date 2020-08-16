@@ -237,8 +237,8 @@ footer a {
     }
 
     body {
-        padding-top: calc(var(--padding) * 2.5);
-        padding-bottom: calc(var(--padding) * 3.5);
+        /*padding-top: calc(var(--padding) * 2.5);*/
+        /*padding-bottom: calc(var(--padding) * 3.5);*/
         position: fixed;
         /*overflow: hidden;*/
         height: -webkit-fill-available;
