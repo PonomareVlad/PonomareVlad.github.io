@@ -156,6 +156,10 @@ main .menu a {
     line-height: 1em;
 }
 
+main .menu a:hover {
+    text-decoration: underline;
+}
+
 main .menu a:after {
     display: block;
     font-size: 24px;
