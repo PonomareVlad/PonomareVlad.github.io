@@ -200,6 +200,7 @@ nav.icons {
 
 .icons .telegram {
     background-image: url("../img/telegram.svg");
+    transform: rotate(-45deg) translate(8px);
 }
 
 footer a {
